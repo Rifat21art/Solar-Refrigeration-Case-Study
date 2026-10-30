@@ -2,7 +2,7 @@
 
 A simulation and **engineering design case study** of a PV-assisted cold store with an ice-bank thermal store: a tested model, a five-controller comparison, a 291-part CAD design with dimensioned drawings, and an interactive 3D website.
 
-**[Live website]([https://YOUR-USERNAME.github.io/YOUR-REPO/](https://rifat21art.github.io/Solar-Refrigeration-Case-Study/))** · 
+**[Live website]([https://YOUR-USERNAME.github.io/YOUR-REPO/](https://rifat21art.github.io/Solar-Refrigeration-Case-Study/])** · 
 
 ## Main finding (simulated)
 Five controllers, 16 identical summer days, grid import vs a fixed thermostat:
