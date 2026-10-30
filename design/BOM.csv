@@ -1,0 +1,292 @@
+module,part,material,shape,dims_mm,volume_mm3,mass_kg_solid_estimate
+M1 PV array,Post 00,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 00,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 01,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 01,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 10,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 10,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 11,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 11,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 20,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 20,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 21,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 21,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 30,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 30,steel,box,300x300x16,1440000,11.30
+M1 PV array,Post 31,steel,cylinder,70x2800x0,42925617,336.97
+M1 PV array,Base plate 31,steel,box,300x300x16,1440000,11.30
+M1 PV array,Rail 0,aluminium,box,13800x60x60,49680000,134.14
+M1 PV array,Rail 1,aluminium,box,13800x60x60,49680000,134.14
+M1 PV array,Rail 2,aluminium,box,13800x60x60,49680000,134.14
+M1 PV array,PV module 01,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 02,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 03,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 04,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 05,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 06,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 07,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 08,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 09,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 10,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 11,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 12,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 13,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 14,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 15,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 16,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 17,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 18,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 19,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 20,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 21,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 22,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 23,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,PV module 24,glass,box,2280x1130x35,90174000,225.44
+M1 PV array,Combiner box,aluminium,box,300x200x400,24000000,64.80
+M1 PV array,DC isolator,electronics,box,120x100x140,1680000,3.02
+M2 Inverter,Enclosure bottom,aluminium,box,550x200x4,440000,1.19
+M2 Inverter,Enclosure top,aluminium,box,550x200x4,440000,1.19
+M2 Inverter,Enclosure back,aluminium,box,550x4x412,906400,2.45
+M2 Inverter,Enclosure front,aluminium,box,550x4x412,906400,2.45
+M2 Inverter,Enclosure left,aluminium,box,4x192x412,316416,0.85
+M2 Inverter,Enclosure right,aluminium,box,4x192x412,316416,0.85
+M2 Inverter,Heat sink base,aluminium,box,500x10x380,1900000,5.13
+M2 Inverter,Fin 01,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 02,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 03,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 04,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 05,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 06,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 07,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 08,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 09,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 10,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 11,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 12,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 13,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 14,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fin 15,aluminium,box,3x50x380,57000,0.15
+M2 Inverter,Fan,composite,cylinder,60x20x0,225266,0.36
+M2 Inverter,IGBT module 1,electronics,box,80x25x60,120000,0.22
+M2 Inverter,IGBT module 2,electronics,box,80x25x60,120000,0.22
+M2 Inverter,IGBT module 3,electronics,box,80x25x60,120000,0.22
+M2 Inverter,IGBT module 4,electronics,box,80x25x60,120000,0.22
+M2 Inverter,IGBT module 5,electronics,box,80x25x60,120000,0.22
+M2 Inverter,IGBT module 6,electronics,box,80x25x60,120000,0.22
+M2 Inverter,DC-link capacitor 1,aluminium,cylinder,17x70x0,63293,0.17
+M2 Inverter,DC-link capacitor 2,aluminium,cylinder,17x70x0,63293,0.17
+M2 Inverter,DC-link capacitor 3,aluminium,cylinder,17x70x0,63293,0.17
+M2 Inverter,LCL inductor 1,copper,cylinder,22x40x0,60571,0.54
+M2 Inverter,LCL inductor 2,copper,cylinder,22x40x0,60571,0.54
+M2 Inverter,LCL inductor 3,copper,cylinder,22x40x0,60571,0.54
+M2 Inverter,Control board,electronics,box,400x3x300,360000,0.65
+M2 Inverter,AC contactor,electronics,box,60x60x70,252000,0.45
+M2 Inverter,Terminal block,electronics,box,300x30x25,225000,0.41
+M3 Compressor and motor,Skid base,steel,box,1900x700x100,133000000,1044.05
+M3 Compressor and motor,Anti-vibration mount 00,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 01,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 10,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 11,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 20,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 21,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 30,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Anti-vibration mount 31,steel,cylinder,40x60x0,300354,2.36
+M3 Compressor and motor,Motor stator,steel,cylinder,220x900x0,136285706,1069.84
+M3 Compressor and motor,Motor end bell,steel,cylinder,230x50x0,8275383,64.96
+M3 Compressor and motor,Motor terminal box,aluminium,box,200x160x120,3840000,10.37
+M3 Compressor and motor,Motor cooling rib 1,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 2,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 3,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 4,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 5,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 6,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 7,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 8,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 9,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 10,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 11,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 12,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 13,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Motor cooling rib 14,steel,box,8x30x20,4800,0.04
+M3 Compressor and motor,Coupling guard,steel,tube,90x200x84,653270,5.13
+M3 Compressor and motor,Crankcase,cast iron,box,600x500x420,126000000,907.20
+M3 Compressor and motor,Cylinder 1,cast iron,cylinder,55x220x0,2082143,14.99
+M3 Compressor and motor,Cylinder head 1,aluminium,box,110x140x80,1232000,3.33
+M3 Compressor and motor,Cylinder 2,cast iron,cylinder,55x220x0,2082143,14.99
+M3 Compressor and motor,Cylinder head 2,aluminium,box,110x140x80,1232000,3.33
+M3 Compressor and motor,Cylinder 3,cast iron,cylinder,55x220x0,2082143,14.99
+M3 Compressor and motor,Cylinder head 3,aluminium,box,110x140x80,1232000,3.33
+M3 Compressor and motor,Cylinder 4,cast iron,cylinder,55x220x0,2082143,14.99
+M3 Compressor and motor,Cylinder head 4,aluminium,box,110x140x80,1232000,3.33
+M3 Compressor and motor,Suction flange,steel,tube,45x40x16,221386,1.74
+M3 Compressor and motor,Discharge flange,steel,tube,35x40x12,135285,1.06
+M3 Compressor and motor,Oil sight glass,glass,cylinder,25x15x0,29331,0.07
+M4 VFD and controls,Cabinet bottom,steel,box,800x500x2,1000000,7.85
+M4 VFD and controls,Cabinet top,steel,box,800x500x2,1000000,7.85
+M4 VFD and controls,Cabinet back,steel,box,800x2x1195,2390000,18.76
+M4 VFD and controls,Cabinet front,steel,box,800x2x1195,2390000,18.76
+M4 VFD and controls,Cabinet left,steel,box,2x495x1195,1478812,11.61
+M4 VFD and controls,Cabinet right,steel,box,2x495x1195,1478812,11.61
+M4 VFD and controls,Back plate,steel,box,760x3x1160,2644800,20.76
+M4 VFD and controls,Door,steel,box,790x4x1190,3760400,29.52
+M4 VFD and controls,Keypad,electronics,box,160x4x100,64000,0.12
+M4 VFD and controls,MCCB,electronics,box,90x70x110,693000,1.25
+M4 VFD and controls,Contactor,electronics,box,90x70x110,693000,1.25
+M4 VFD and controls,EMC filter,electronics,box,220x70x110,1694000,3.05
+M4 VFD and controls,Rectifier bridge,electronics,box,140x70x140,1372000,2.47
+M4 VFD and controls,DC choke,copper,cylinder,90x200x0,5068477,45.41
+M4 VFD and controls,DC-link capacitor 1,aluminium,cylinder,45x180x0,1140407,3.08
+M4 VFD and controls,DC-link capacitor 2,aluminium,cylinder,45x180x0,1140407,3.08
+M4 VFD and controls,DC-link capacitor 3,aluminium,cylinder,45x180x0,1140407,3.08
+M4 VFD and controls,IGBT module,electronics,box,150x40x120,720000,1.30
+M4 VFD and controls,Inverter heat sink,aluminium,box,200x20x160,640000,1.73
+M4 VFD and controls,Cooling fan,composite,cylinder,60x25x0,281582,0.45
+M4 VFD and controls,Control board,electronics,box,250x5x180,225000,0.41
+M4 VFD and controls,Terminal 1,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 2,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 3,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 4,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 5,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 6,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 7,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 8,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 9,electronics,box,30x40x40,48000,0.09
+M4 VFD and controls,Terminal 10,electronics,box,30x40x40,48000,0.09
+M5 Condenser,Coil block,copper,box,2300x1000x600,1380000000,12364.80
+M5 Condenser,Leg 1,steel,cylinder,30x800x0,2252656,17.68
+M5 Condenser,Leg 2,steel,cylinder,30x800x0,2252656,17.68
+M5 Condenser,Leg 3,steel,cylinder,30x800x0,2252656,17.68
+M5 Condenser,Leg 4,steel,cylinder,30x800x0,2252656,17.68
+M5 Condenser,Frame deck,steel,box,2500x1200x20,60000000,471.00
+M5 Condenser,Fan shroud,steel,tube,450x350x440,9765542,76.66
+M5 Condenser,Fan hub,composite,cylinder,75x60x0,1055933,1.69
+M5 Condenser,Fan blade 1,composite,box,320x110x8,281160,0.45
+M5 Condenser,Fan blade 2,composite,box,320x110x8,281160,0.45
+M5 Condenser,Fan blade 3,composite,box,320x110x8,281160,0.45
+M5 Condenser,Fan blade 4,composite,box,320x110x8,281160,0.45
+M5 Condenser,Fan blade 5,composite,box,320x110x8,281160,0.45
+M5 Condenser,Inlet header,copper,cylinder,38x900x0,4066045,36.43
+M5 Condenser,Outlet header,copper,cylinder,38x900x0,4066045,36.43
+M5 Condenser,Hot-gas inlet 22 mm,copper,cylinder,11x300x0,113571,1.02
+M5 Condenser,Liquid outlet 16 mm,copper,cylinder,8x300x0,60071,0.54
+M5 Condenser,Casing panel 1,steel,box,2300x3x560,3864000,30.33
+M5 Condenser,Casing panel 2,steel,box,2300x3x560,3864000,30.33
+M5 Condenser,Casing panel 3,steel,box,2300x3x560,3864000,30.33
+M6 Receiver and valve train,Receiver shell,steel,tube,200x640x196,3171740,24.90
+M6 Receiver and valve train,Top dome (cylindrical approx.),steel,cylinder,170x30x0,2712574,21.29
+M6 Receiver and valve train,Bottom dome (approx.),steel,cylinder,170x30x0,2712574,21.29
+M6 Receiver and valve train,Foot -120,steel,box,80x160x40,512000,4.02
+M6 Receiver and valve train,Foot 120,steel,box,80x160x40,512000,4.02
+M6 Receiver and valve train,Relief valve,steel,cylinder,25x120x0,234652,1.84
+M6 Receiver and valve train,Sight glass,glass,cylinder,30x20x0,56316,0.14
+M6 Receiver and valve train,Dip tube,copper,cylinder,9x600x0,152054,1.36
+M6 Receiver and valve train,Valve panel,steel,box,500x6x300,900000,7.07
+M6 Receiver and valve train,TXV body,copper,box,90x60x80,432000,3.87
+M6 Receiver and valve train,TXV diaphragm head,steel,cylinder,32x40x0,128151,1.01
+M6 Receiver and valve train,Sensing bulb,copper,cylinder,8x60x0,12014,0.11
+M6 Receiver and valve train,Store solenoid coil,electronics,cylinder,20x70x0,87603,0.16
+M6 Receiver and valve train,Ball valve,copper,cylinder,20x60x0,75089,0.67
+M6 Receiver and valve train,Gauge LP,steel,cylinder,31x20x0,60133,0.47
+M6 Receiver and valve train,Gauge HP,steel,cylinder,31x20x0,60133,0.47
+M7 Unit cooler,Casing bottom,aluminium,box,1400x600x2,2100000,5.67
+M7 Unit cooler,Casing top,aluminium,box,1400x600x2,2100000,5.67
+M7 Unit cooler,Casing back,aluminium,box,1400x2x495,1732500,4.68
+M7 Unit cooler,Casing front,aluminium,box,1400x2x495,1732500,4.68
+M7 Unit cooler,Casing left,aluminium,box,2x595x495,736312,1.99
+M7 Unit cooler,Casing right,aluminium,box,2x595x495,736312,1.99
+M7 Unit cooler,Coil block,copper,box,1250x340x420,178500000,1599.36
+M7 Unit cooler,EC fan 1,composite,tube,160x60x130,1633176,2.61
+M7 Unit cooler,EC fan 2,composite,tube,160x60x130,1633176,2.61
+M7 Unit cooler,Drain pan,abs,box,1400x600x40,33600000,35.28
+M7 Unit cooler,Defrost heater 1,steel,cylinder,5x1300x0,101682,0.80
+M7 Unit cooler,Defrost heater 2,steel,cylinder,5x1300x0,101682,0.80
+M7 Unit cooler,Defrost heater 3,steel,cylinder,5x1300x0,101682,0.80
+M7 Unit cooler,Leg 00,steel,cylinder,20x250x0,312869,2.46
+M7 Unit cooler,Leg 01,steel,cylinder,20x250x0,312869,2.46
+M7 Unit cooler,Leg 10,steel,cylinder,20x250x0,312869,2.46
+M7 Unit cooler,Leg 11,steel,cylinder,20x250x0,312869,2.46
+M7 Unit cooler,Distributor,copper,cylinder,30x100x0,281582,2.52
+M7 Unit cooler,Suction header,copper,cylinder,25x400x0,782172,7.01
+M8 Ice-bank store,Tank (polyethylene) bottom,polyethylene,box,1200x1000x8,9600000,9.12
+M8 Ice-bank store,Tank (polyethylene) top,polyethylene,box,1200x1000x8,9600000,9.12
+M8 Ice-bank store,Tank (polyethylene) back,polyethylene,box,1200x8x1184,11366400,10.80
+M8 Ice-bank store,Tank (polyethylene) front,polyethylene,box,1200x8x1184,11366400,10.80
+M8 Ice-bank store,Tank (polyethylene) left,polyethylene,box,8x984x1184,9320448,8.85
+M8 Ice-bank store,Tank (polyethylene) right,polyethylene,box,8x984x1184,9320448,8.85
+M8 Ice-bank store,Insulation back,pur,box,1200x100x1200,144000000,5.76
+M8 Ice-bank store,Insulation left,pur,box,100x1000x1200,120000000,4.80
+M8 Ice-bank store,Insulation right,pur,box,100x1000x1200,120000000,4.80
+M8 Ice-bank store,Insulation front,pur,box,1200x100x1200,144000000,5.76
+M8 Ice-bank store,Insulation base,pur,box,1200x1000x100,120000000,4.80
+M8 Ice-bank store,Coil tube 1,copper,cylinder,11x1000x0,378571,3.39
+M8 Ice-bank store,Coil tube 2,copper,cylinder,11x1000x0,378571,3.39
+M8 Ice-bank store,Coil tube 3,copper,cylinder,11x1000x0,378571,3.39
+M8 Ice-bank store,Coil tube 4,copper,cylinder,11x1000x0,378571,3.39
+M8 Ice-bank store,Coil tube 5,copper,cylinder,11x1000x0,378571,3.39
+M8 Ice-bank store,Coil tube 6,copper,cylinder,11x1000x0,378571,3.39
+M8 Ice-bank store,Top header,copper,cylinder,27x800x0,1824652,16.35
+M8 Ice-bank store,Bottom header,copper,cylinder,27x800x0,1824652,16.35
+M8 Ice-bank store,Brine pump,cast iron,cylinder,90x250x0,6335596,45.62
+M8 Ice-bank store,Pump motor,steel,cylinder,75x200x0,3519775,27.63
+M8 Ice-bank store,Proportional valve,steel,box,120x120x160,2304000,18.09
+M8 Ice-bank store,Level probe,steel,cylinder,6x1000x0,112633,0.88
+M9 Grid connection,Cabinet bottom,steel,box,500x400x2,500000,3.93
+M9 Grid connection,Cabinet top,steel,box,500x400x2,500000,3.93
+M9 Grid connection,Cabinet back,steel,box,500x2x995,1243750,9.76
+M9 Grid connection,Cabinet front,steel,box,500x2x995,1243750,9.76
+M9 Grid connection,Cabinet left,steel,box,2x395x995,982562,7.71
+M9 Grid connection,Cabinet right,steel,box,2x395x995,982562,7.71
+M9 Grid connection,Back plate,steel,box,470x3x960,1353600,10.63
+M9 Grid connection,Door,steel,box,490x4x990,1940400,15.23
+M9 Grid connection,SPD 1,electronics,box,30x60x90,162000,0.29
+M9 Grid connection,SPD 2,electronics,box,30x60x90,162000,0.29
+M9 Grid connection,SPD 3,electronics,box,30x60x90,162000,0.29
+M9 Grid connection,Main MCB 3-pole,electronics,box,54x60x90,291600,0.52
+M9 Grid connection,RCD 30 mA,electronics,box,72x60x90,388800,0.70
+M9 Grid connection,Bidirectional meter,electronics,box,140x100x150,2100000,3.78
+M9 Grid connection,Current transformer 1,copper,tube,40x30x25,91514,0.82
+M9 Grid connection,Current transformer 2,copper,tube,40x30x25,91514,0.82
+M9 Grid connection,Current transformer 3,copper,tube,40x30x25,91514,0.82
+M9 Grid connection,Outgoing MCB 1,electronics,box,18x60x90,97200,0.17
+M9 Grid connection,Outgoing MCB 2,electronics,box,18x60x90,97200,0.17
+M9 Grid connection,Outgoing MCB 3,electronics,box,18x60x90,97200,0.17
+M9 Grid connection,Outgoing MCB 4,electronics,box,18x60x90,97200,0.17
+M9 Grid connection,Busbar L1,copper,box,300x10x12,36000,0.32
+M9 Grid connection,Busbar L2,copper,box,300x10x12,36000,0.32
+M9 Grid connection,Busbar L3,copper,box,300x10x12,36000,0.32
+M9 Grid connection,Busbar N,copper,box,300x10x12,36000,0.32
+M9 Grid connection,Service pole,steel,cylinder,125x8000x0,391086163,3070.03
+M9 Grid connection,Cross-arm,steel,box,1200x80x80,7680000,60.29
+M9 Grid connection,Insulator 1,polyethylene,cylinder,30x140x0,394215,0.37
+M9 Grid connection,Insulator 2,polyethylene,cylinder,30x140x0,394215,0.37
+M9 Grid connection,Insulator 3,polyethylene,cylinder,30x140x0,394215,0.37
+M10 Cold room,Floor panel,pur,box,6000x4000x100,2400000000,96.00
+M10 Cold room,Roof panel,pur,box,6000x4000x100,2400000000,96.00
+M10 Cold room,Back wall,pur,box,6000x100x2400,1440000000,57.60
+M10 Cold room,Left wall,pur,box,100x4000x2400,960000000,38.40
+M10 Cold room,Right wall,pur,box,100x4000x2400,960000000,38.40
+M10 Cold room,Front wall left,pur,box,2980x100x2400,715200000,28.61
+M10 Cold room,Front wall right,pur,box,2020x100x2400,484800000,19.39
+M10 Cold room,Door header,pur,box,1000x100x300,30000000,1.20
+M10 Cold room,Door leaf,aluminium,box,1000x60x2100,126000000,340.20
+M10 Cold room,Door frame,steel,box,1100x60x2200,145200000,1139.82
+M10 Cold room,Product crate 01,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 02,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 03,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 04,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 05,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 06,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 07,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 08,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 09,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 10,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 11,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 12,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 13,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 14,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 15,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 16,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 17,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 18,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 19,wood,box,600x400x300,72000000,43.20
+M10 Cold room,Product crate 20,wood,box,600x400x300,72000000,43.20
